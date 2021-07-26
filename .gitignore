@@ -1,0 +1,16 @@
+
+.DS_Store
+Pods/Target Support Files/.DS_Store
+Pods/Realm/Core/realm-monorepo.xcframework/ios-x86_64_arm64-maccatalyst
+Pods/Realm/Core/realm-monorepo.xcframework/tvos-arm64_x86_64-simulator
+Pods/Realm/Core/realm-monorepo.xcframework/ios-arm64_x86_64_i386-simulator
+Pods/Realm/Core/realm-monorepo.xcframework/macos-x86_64_arm64
+Pods/Realm/Core/realm-monorepo.xcframework/watchos-arm64_i386_x86_64-simulator
+Pods/Realm/Core/realm-monorepo.xcframework/watchos-armv7k_arm64_32
+Pods/Realm/Core/realm-monorepo.xcframework/ios-armv7_arm64
+Pods/Realm/Core/realm-monorepo.xcframework/tvos-arm64
+
+
+
+					
+							
